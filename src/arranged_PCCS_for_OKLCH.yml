@@ -1,0 +1,61 @@
+arranged_PCCS_for_OKLCH:
+  # Cmax: the maximum of chroma
+  # C8: (8 / 9) * Cmax, round to the fourth decimal place
+  # C5: (5 / 9) * Cmax, round to the fourth decimal place
+  # C2: (2 / 9) * Cmax, round to the fourth decimal place
+  # L(C)max: the maximum of lightness as chroma = C
+  # L(C)min: the minimum of lightness as chroma = C
+  # L(C)high: {2 * L(C2)min + 5 * L(C2)max} / 7, {L(C5)min + 3 * L(C5)max} / 4, round to the second decimal place
+  # L(C)medium: {L(C)min + L(C)max} / 2, round to the third second place
+  # L(C)low: {5 * L(C2)min + 2 * L(C2)max} / 7, {3 * L(C5)min + L(C5)max} / 4, round to the third second place
+  W:
+    lightness: 100.00
+    chroma: 0.0000
+  ltGy:
+    lightness: 81.25
+    chroma: 0.0000
+  mGy:
+    lightness: 50.00
+    chroma: 0.0000
+  dkGy:
+    lightness: 18.75
+    chroma: 0.0000
+  Bk:
+    lightness: 0.00
+    chroma: 0.0000
+  p:
+    lightness: "L(C2)max"
+    chroma: "C2"
+  ltg:
+    lightness: "L(C2)high"
+    chroma: "C2"
+  g:
+    lightness: "L(C2)low"
+    chroma: "C2"
+  dkg:
+    lightness: "L(C2)min"
+    chroma: "C2"
+  lt:
+    lightness: "L(C5)max"
+    chroma: "C5"
+  sf:
+    lightness: "L(C5)high"
+    chroma: "C5"
+  d:
+    lightness: "L(C5)low"
+    chroma: "C5"
+  dk:
+    lightness: "L(C5)min"
+    chroma: "C5"
+  b:
+    lightness: "L(C8)max"
+    chroma: "C8"
+  s:
+    lightness: "L(C8)medium"
+    chroma: "C8"
+  dp:
+    lightness: "L(C8)min"
+    chroma: "C8"
+  v:
+    lightness: "L(Cmax)max"
+    chroma: "Cmax"
