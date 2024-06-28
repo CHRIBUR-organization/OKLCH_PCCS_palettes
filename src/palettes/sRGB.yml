@@ -1,1177 +1,1177 @@
 rgb:
   hue=0:
     p:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "89.55"
+      chroma: "0.0583"
+      hex: "#ffcddb"
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0583"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0583"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "14.42"
+      chroma: "0.0583"
+      hex: "#1b0009"
     lt:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "77.20"
+      chroma: "0.1457"
+      hex: "#ff8bb1"
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1457"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1457"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "36.03"
+      chroma: "0.1457"
+      hex: "#73003a"
     b:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "67.50"
+      chroma: "0.2331"
+      hex: "#ff3f91"
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2331"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "57.50"
+      chroma: "0.2331"
+      hex: "#da0073"
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "64.71"
+      chroma: "0.2622"
+      hex: "#ff0088"
   hue=15:
     p:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "89.26"
+      chroma: "0.0563"
+      hex: "#ffcdd0"
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0563"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0563"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "14.12"
+      chroma: "0.0563"
+      hex: "#1b0003"
     lt:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "76.47"
+      chroma: "0.1408"
+      hex: "#ff8b96"
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1408"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1408"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "35.30"
+      chroma: "0.1408"
+      hex: "#730022"
     b:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "66.47"
+      chroma: "0.2253"
+      hex: "#ff3f66"
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2253"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "56.48"
+      chroma: "0.2253"
+      hex: "#da0249"
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "63.53"
+      chroma: "0.2535"
+      hex: "#ff0257"
   hue=30:
     p:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "89.26"
+      chroma: "0.0562"
+      hex: "#ffcfc6"
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0562"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0562"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "14.12"
+      chroma: "0.0562"
+      hex: "#1b0000"
     lt:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "76.32"
+      chroma: "0.1406"
+      hex: "#ff8d7c"
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1406"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1406"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "35.15"
+      chroma: "0.1406"
+      hex: "#730500"
     b:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "66.17"
+      chroma: "0.2249"
+      hex: "#ff4531"
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2249"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "56.18"
+      chroma: "0.2249"
+      hex: "#da1101"
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "63.24"
+      chroma: "0.2530"
+      hex: "#ff1701"
   hue=45:
     p:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "91.91"
+      chroma: "0.0444"
+      hex: "#ffdccc"
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0444"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0444"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "15.59"
+      chroma: "0.0444"
+      hex: "#1b0500"
     lt:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "81.47"
+      chroma: "0.1109"
+      hex: "#ffab86"
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1109"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1109"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "38.83"
+      chroma: "0.1109"
+      hex: "#722c00"
     b:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "72.79"
+      chroma: "0.1774"
+      hex: "#ff7c39"
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1774"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "62.06"
+      chroma: "0.1774"
+      hex: "#d95a00"
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "70.00"
+      chroma: "0.1996"
+      hex: "#fe6b02"
   hue=60:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0393"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0393"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0393"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0393"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0982"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0982"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0982"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0982"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1572"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1572"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1572"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "75.59"
+      chroma: "0.1768"
+      hex: "#ff9003"
   hue=75:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0377"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0377"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0377"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0377"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0943"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0943"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0943"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0943"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1508"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1508"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1508"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "80.59"
+      chroma: "0.1697"
+      hex: "#fead02"
   hue=90:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0390"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0390"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0390"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0390"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0976"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0976"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0976"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0976"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1562"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1562"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1562"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "86.18"
+      chroma: "0.1757"
+      hex: "#fecb04"
   hue=105:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0440"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0440"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0440"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0440"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1100"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1100"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1100"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1100"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1760"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1760"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1760"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "93.53"
+      chroma: "0.1980"
+      hex: "#feef04"
   hue=120:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0494"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0494"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0494"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0494"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1236"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1236"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1236"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1236"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1978"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1978"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1978"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "93.82"
+      chroma: "0.2225"
+      hex: "#d9fe02"
   hue=135:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0577"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0577"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0577"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0577"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1442"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1442"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1442"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1442"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2307"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2307"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2307"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "89.41"
+      chroma: "0.2595"
+      hex: "#88ff0b"
   hue=150:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0534"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0534"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0534"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0534"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1336"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1336"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1336"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1336"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2138"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2138"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2138"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "87.35"
+      chroma: "0.2405"
+      hex: "#01ff78"
   hue=165:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0413"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0413"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0413"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0413"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1033"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1033"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1033"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1033"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1653"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1653"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1653"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "88.53"
+      chroma: "0.1860"
+      hex: "#01ffba"
   hue=180:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0360"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0360"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0360"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0360"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0901"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0901"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0901"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0901"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1441"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1441"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1441"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "89.41"
+      chroma: "0.1621"
+      hex: "#02fee0"
   hue=195:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0342"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0342"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0342"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0342"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0855"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0855"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0855"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0855"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1368"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1368"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1368"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "90.29"
+      chroma: "0.1539"
+      hex: "#02fefe"
   hue=210:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0323"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0323"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0323"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0323"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0807"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0807"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0807"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0807"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1291"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1291"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1291"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "84.12"
+      chroma: "0.1452"
+      hex: "#04e4ff"
   hue=225:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0329"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0329"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0329"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0329"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0822"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0822"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0822"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0822"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1315"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1315"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1315"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "78.24"
+      chroma: "0.1479"
+      hex: "#03cbff"
   hue=240:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0363"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0363"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0363"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0363"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0907"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0907"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0907"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0907"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1451"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1451"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1451"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "71.47"
+      chroma: "0.1632"
+      hex: "#03aefd"
   hue=255:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0456"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0456"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0456"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0456"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1139"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1139"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1139"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1139"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1823"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1823"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1823"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "62.35"
+      chroma: "0.2051"
+      hex: "#0184fe"
   hue=270:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0676"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0676"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0676"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0676"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1689"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1689"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1689"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1689"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2703"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2703"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2703"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "46.47"
+      chroma: "0.3041"
+      hex: "#3001ff"
   hue=285:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0652"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0652"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0652"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0652"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1629"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1629"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1629"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1629"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2606"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2606"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2606"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "50.29"
+      chroma: "0.2932"
+      hex: "#6502ff"
   hue=300:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0652"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0652"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0652"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0652"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1629"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1629"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1629"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1629"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2606"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2606"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2606"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "55.00"
+      chroma: "0.2932"
+      hex: "#9201fd"
   hue=315:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0676"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0676"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0676"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0676"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1689"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1689"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1689"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1689"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2703"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2703"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2703"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "61.76"
+      chroma: "0.3041"
+      hex: "#c600fe"
   hue=330:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0705"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0705"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0705"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0705"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1762"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1762"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1762"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1762"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2820"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2820"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2820"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "69.71"
+      chroma: "0.3172"
+      hex: "#ff02f7"
   hue=345:
     p:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0627"
       hex: ""
     ltg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0627"
       hex: ""
     g:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0627"
       hex: ""
     dkg:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0627"
       hex: ""
     lt:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1568"
       hex: ""
     sf:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1568"
       hex: ""
     d:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1568"
       hex: ""
     dk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.1568"
       hex: ""
     b:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2509"
       hex: ""
     s:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2509"
       hex: ""
     dp:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.2509"
       hex: ""
     v:
-      lightness: 0.00
-      chroma: 0.0000
-      hex: ""
+      lightness: "66.47"
+      chroma: "0.2823"
+      hex: "#fe01ba"

@@ -1,22 +1,22 @@
 rgb:
   neutral:
     W:
-      lightness: 100.00
-      chroma: 0.0000
+      lightness: "100.00"
+      chroma: "0.0000"
       hex: "#ffffff"
     ltGy:
-      lightness: 81.25
-      chroma: 0.0000
+      lightness: "81.25"
+      chroma: "0.0000"
       hex: "#c2c2c2"
     mGy:
-      lightness: 50.00
-      chroma: 0.0000
+      lightness: "50.00"
+      chroma: "0.0000"
       hex: "#636363"
     dkGy:
-      lightness: 18.75
-      chroma: 0.0000
+      lightness: "18.75"
+      chroma: "0.0000"
       hex: "#131313"
     Bk:
-      lightness: 0.00
-      chroma: 0.0000
+      lightness: "0.00"
+      chroma: "0.0000"
       hex: "#000000"

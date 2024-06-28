@@ -9,20 +9,20 @@ arranged_PCCS_for_OKLCH:
   # L(C)medium: {L(C)min + L(C)max} / 2, round to the third second place
   # L(C)low: {5 * L(C2)min + 2 * L(C2)max} / 7, {3 * L(C5)min + L(C5)max} / 4, round to the third second place
   W:
-    lightness: 100.00
-    chroma: 0.0000
+    lightness: "100.00"
+    chroma: "0.0000"
   ltGy:
-    lightness: 81.25
-    chroma: 0.0000
+    lightness: "81.25"
+    chroma: "0.0000"
   mGy:
-    lightness: 50.00
-    chroma: 0.0000
+    lightness: "50.00"
+    chroma: "0.0000"
   dkGy:
-    lightness: 18.75
-    chroma: 0.0000
+    lightness: "18.75"
+    chroma: "0.0000"
   Bk:
-    lightness: 0.00
-    chroma: 0.0000
+    lightness: "0.00"
+    chroma: "0.0000"
   p:
     lightness: "L(C2)max"
     chroma: "C2"

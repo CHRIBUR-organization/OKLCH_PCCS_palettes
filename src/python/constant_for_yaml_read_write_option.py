@@ -1,0 +1,1 @@
+CONSTANT_FOR_YAML_READ_WRITE_OPTION: str = "tag:yaml.org,2002:map"
